@@ -130,7 +130,7 @@
       # URL of the LOGO
       logo = "/favicon.ico"
       # title name
-      name = "Be a problem solver!"
+      name = ""
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
