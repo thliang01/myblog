@@ -156,7 +156,7 @@
     # FixIt 0.2.0 | NEW whether to show the author
     author = true
     # Site creation year
-    since = 2021
+    since = 2022
     # FixIt 0.2.14 | NEW Site creation time
     siteTime = "" # e.g. "2021-12-18T16:15:22+08:00"
     # FixIt 0.2.14 | NEW whether to show total word count of site content
@@ -206,7 +206,7 @@
       # FixIt 0.2.7 | CHANGED title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page
-      subtitle = "build ML systems to solve real world problems"
+      subtitle = "build ML-powered products to solve real world problems"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
