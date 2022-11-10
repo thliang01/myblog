@@ -729,3 +729,9 @@
   [module.hugoVersion]
     extended = true
     min = "0.84.0"
+
+# Author config
+[author]
+  name = "Thomas"
+  email = ""
+  link = ""
